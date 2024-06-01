@@ -673,12 +673,6 @@
               "bit": 23
             },
             {
-              "name": "Pier",
-              "bsp": "pl_pier",
-              "group": 3,
-              "bit": 22
-            },
-            {
               "name": "Snowycoast",
               "bsp": "pl_snowycoast",
               "group": 1,
