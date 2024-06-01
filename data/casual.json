@@ -202,13 +202,13 @@
               "name": "Bread Space",
               "bsp": "pl_breadspace",
               "group": 4,
-              "bit": 1
+              "bit": 2
             },
             {
               "name": "Cascade",
               "bsp": "koth_cascade",
               "group": 4,
-              "bit": 3
+              "bit": 4
             },
             {
               "name": "Chilly",
@@ -257,6 +257,18 @@
           "name": "Attack / Defense",
           "maps": [
             {
+              "name": "Altitude",
+              "bsp": "cp_altitude",
+              "group": 4,
+              "bit": 5
+            },
+            {
+              "name": "Brew",
+              "bsp": "cp_brew",
+              "group": 5,
+              "bit": 15
+            },
+            {
               "name": "Dustbowl",
               "bsp": "cp_dustbowl",
               "group": 0,
@@ -279,6 +291,12 @@
               "bsp": "cp_gravelpit",
               "group": 0,
               "bit": 9
+            },
+            {
+              "name": "Hardwood",
+              "bsp": "cp_hardwood_final",
+              "group": 4,
+              "bit": 25
             },
             {
               "name": "Junction",
@@ -309,6 +327,12 @@
               "bsp": "cp_steel",
               "group": 0,
               "bit": 19
+            },
+            {
+              "name": "Sulfur",
+              "bsp": "cp_sulfur",
+              "group": 4,
+              "bit": 24
             }
           ]
         },
@@ -332,6 +356,12 @@
               "bsp": "ctf_landfall",
               "group": 1,
               "bit": 21
+            },
+            {
+              "name": "Pelican Peak",
+              "bsp": "ctf_pelican_peak",
+              "group": 4,
+              "bit": 26
             },
             {
               "name": "Sawmill",
@@ -423,6 +453,12 @@
               "bit": 14
             },
             {
+              "name": "Reckoner",
+              "bsp": "cp_reckoner",
+              "group": 4,
+              "bit": 23
+            },
+            {
               "name": "Snakewater",
               "bsp": "cp_snakewater_final1",
               "group": 0,
@@ -474,6 +510,24 @@
               "bsp": "koth_brazil",
               "group": 3,
               "bit": 10
+            },
+            {
+              "name": "Cascade",
+              "bsp": "koth_cascade",
+              "group": 4,
+              "bit": 4
+            },
+            {
+              "name": "Rotunda",
+              "bsp": "koth_rotunda",
+              "group": 4,
+              "bit": 19
+            },
+            {
+              "name": "Sharkbay",
+              "bsp": "koth_sharkbay",
+              "group": 4,
+              "bit": 18
             },
             {
               "name": "Harvest",
@@ -559,6 +613,48 @@
               "bit": 9
             },
             {
+              "name": "Breadspace",
+              "bsp": "pl_breadspace",
+              "group": 4,
+              "bit": 2
+            },
+            {
+              "name": "Emerge",
+              "bsp": "pl_emerge",
+              "group": 5,
+              "bit": 19
+            },
+            {
+              "name": "Camber",
+              "bsp": "pl_camber",
+              "group": 5,
+              "bit": 21
+            },
+            {
+              "name": "Cashworks",
+              "bsp": "pl_cashworks",
+              "group": 4,
+              "bit": 21
+            },
+            {
+              "name": "Phoenix",
+              "bsp": "pl_phoenix",
+              "group": 4,
+              "bit": 19
+            },
+            {
+              "name": "Venice",
+              "bsp": "pl_venice",
+              "group": 4,
+              "bit": 22
+            },
+            {
+              "name": "Pier",
+              "bsp": "pl_pier",
+              "group": 3,
+              "bit": 23
+            },
+            {
               "name": "Frontier",
               "bsp": "pl_frontier_final",
               "group": 1,
@@ -575,12 +671,6 @@
               "bsp": "pl_hoodoo_final",
               "group": 0,
               "bit": 23
-            },
-            {
-              "name": "Pier",
-              "bsp": "pl_pier",
-              "group": 3,
-              "bit": 22
             },
             {
               "name": "Snowycoast",
@@ -656,6 +746,36 @@
               "bsp": "cp_degrootkeep",
               "group": 1,
               "bit": 4
+            },
+            {
+              "name": "Distillery",
+              "bsp": "vsh_distillery",
+              "group": 4,
+              "bit": 29
+            },
+            {
+              "name": "Nucleus VSH",
+              "bsp": "vsh_nucleus",
+              "group": 4,
+              "bit": 31
+            },
+            {
+              "name": "Selbyen",
+              "bsp": "pd_selbyen",
+              "group": 4,
+              "bit": 27
+            },
+            {
+              "name": "Skimrish",
+              "bsp": "vsh_skimrish",
+              "group": 4,
+              "bit": 30
+            },
+            {
+              "name": "Tiny Rock",
+              "bsp": "vsh_tinyrock",
+              "group": 4,
+              "bit": 28
             },
             {
               "name": "Doomsday",
