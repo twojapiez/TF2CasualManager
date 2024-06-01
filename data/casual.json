@@ -202,13 +202,13 @@
               "name": "Bread Space",
               "bsp": "pl_breadspace",
               "group": 4,
-              "bit": 1
+              "bit": 2
             },
             {
               "name": "Cascade",
               "bsp": "koth_cascade",
               "group": 4,
-              "bit": 3
+              "bit": 4
             },
             {
               "name": "Chilly",
@@ -265,7 +265,7 @@
             {
               "name": "Brew",
               "bsp": "cp_brew",
-              "group": 6,
+              "group": 5,
               "bit": 15
             },
             {
